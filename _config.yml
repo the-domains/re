@@ -1,0 +1,14 @@
+layout_spectrum: 1
+color:
+  saturation: 0.7829787
+  brandStrength: 0.2751161
+  lightness: 0
+  rhythmicContrast: 0.7127659
+  brandColors:
+    - '#3C493F'
+    - '#7E8D85'
+    - '#B3BFB8'
+    - '#F0F7F4'
+    - '#A2E3C4'
+typography_spectrum: 1
+name: RE
