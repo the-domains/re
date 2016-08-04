@@ -1,14 +1,26 @@
-layout_spectrum: 1
+collections:
+  - index:
+      path: /
+      number: 15
+      paginate: true
+      navigable: true
+    permalink:
+      path: '/:title/'
+    feed:
+      path: /rss.xml
+      format: rss
+      number: 10
 color:
   saturation: 0.7829787
-  brandStrength: 0.2751161
+  brandStrength: 0.7276596
   lightness: 0
-  rhythmicContrast: 0.7127659
   brandColors:
-    - '#3C493F'
-    - '#7E8D85'
-    - '#B3BFB8'
-    - '#F0F7F4'
-    - '#A2E3C4'
+    - '#A1AFBA'
+    - '#21190E'
+    - '#724A12'
+    - '#FEFFFA'
+    - '#916E4B'
+  rhythmicContrast: 0.7127659
 typography_spectrum: 1
+layout_spectrum: 1
 name: RE
