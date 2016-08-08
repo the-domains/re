@@ -1,3 +1,19 @@
+typography_spectrum: 1
+color:
+  saturation: 0.7829787
+  brandStrength: 0.7276596
+  lightness: 0
+  brandColors:
+    - '#A1AFBA'
+    - '#21190E'
+    - '#724A12'
+    - '#FEFFFA'
+    - '#916E4B'
+  rhythmicContrast: 0.7127659
+layout_spectrum: 1
+author:
+  name: Witzard of Otz
+name: RE
 collections:
   - index:
       path: /
@@ -10,17 +26,4 @@ collections:
       path: /rss.xml
       format: rss
       number: 10
-color:
-  saturation: 0.7829787
-  brandStrength: 0.7276596
-  lightness: 0
-  brandColors:
-    - '#A1AFBA'
-    - '#21190E'
-    - '#724A12'
-    - '#FEFFFA'
-    - '#916E4B'
-  rhythmicContrast: 0.7127659
-typography_spectrum: 1
-layout_spectrum: 1
-name: RE
+title: the new world of house searching
